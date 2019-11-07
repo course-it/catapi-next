@@ -1,1 +1,1 @@
-# NextJS + Express boilerplate
+# catapi-next
